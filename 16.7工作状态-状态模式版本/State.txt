@@ -1,0 +1,5 @@
+//State类，抽象状态类，定义一个抽象方法“写程序”
+public interface State
+{
+	public void writeProgram(Work work);
+}
